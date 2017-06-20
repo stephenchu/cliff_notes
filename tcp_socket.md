@@ -1,4 +1,4 @@
-#[Working With TCP Sockets](https://github.com/da99/my_lib/blob/master/programming/linux/Working%20%20with%20%20TCP%20%20Sockets.pdf) - Jesse Storimer
+#[Working With TCP Sockets](http://media.pragprog.com/titles/jstcp/server.pdf) - Jesse Storimer
 
 ## Socket
 
